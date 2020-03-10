@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello    dGit! " );
         System.out.println( "Hello     dGit! " );
         System.out.println( "Hello      dGit! " );
+        System.out.println( "Hello      dGit! " );
     } 
 }
