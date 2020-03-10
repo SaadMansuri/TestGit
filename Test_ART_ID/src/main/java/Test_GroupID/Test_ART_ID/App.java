@@ -11,6 +11,10 @@ public class App
         System.out.println( "Hello    dGit! " );
         System.out.println( "Hello     dGit! " );
         System.out.println( "Hello      dGit! " );
+<<<<<<< HEAD
         System.out.println( "Hello      dGit! " );
+=======
+        System.out.println( "Hello       dGit! " );
+>>>>>>> refs/heads/master
     } 
 }
