@@ -6,7 +6,7 @@ package Test_GroupID.Test_ART_ID;
  */
 public class App 
 {
-    public static void main( String[] abc )
+    public static void main( String[] xyz )
     {
         System.out.println( "Hello    dGit! " );
         System.out.println( "Hello     dGit! " );
