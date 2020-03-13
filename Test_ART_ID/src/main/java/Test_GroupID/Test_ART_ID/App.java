@@ -1,20 +1,21 @@
 package Test_GroupID.Test_ART_ID;
 
+import org.testng.annotations.Test;
+
 /**
  * Hello world!
  *
  */
 public class App 
 {
-    public static void main( String[] abc )
-    {
+    @Test   
+    public void test1()
+        {
         System.out.println( "Hello    dGit! " );
         System.out.println( "Hello     dGit! " );
         System.out.println( "Hello      dGit! " );
-
-        System.out.println( "Hello      zGit! " );
-
+         }
+        
 
 
     } 
-}
